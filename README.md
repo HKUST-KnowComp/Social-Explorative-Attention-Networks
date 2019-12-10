@@ -21,6 +21,7 @@ English Files down load: please put files in the dir dataset/steemit/en/
   https://drive.google.com/file/d/1YQnb44R5t75D4t8XFWDArMkAllnbUm8S/view?usp=sharing
   
 3. processed_user_relation.json
+
   https://drive.google.com/file/d/1qVV0Q65euh67Krkdw3UOkQTywmKxYdbC/view?usp=sharing
   
 #### Example
