@@ -14,13 +14,15 @@ English Files down load: please put files in the dir dataset/steemit/en/
 
 1. processed_user_activity.json
 
-  https://1drv.ms/u/s!AorJby8-9jo1gy6SzwIpwEs2DdaM
+  https://drive.google.com/file/d/1QOELfVtgGgvPFGDpEI3-ZsgKlPxZX2fb/view?usp=sharing
   
 2. new_article.json
 
-  https://1drv.ms/u/s!AorJby8-9jo1gy2MJPREepy6Sgjq
+  https://drive.google.com/file/d/1YQnb44R5t75D4t8XFWDArMkAllnbUm8S/view?usp=sharing
   
-
+3. processed_user_relation.json
+  https://drive.google.com/file/d/1qVV0Q65euh67Krkdw3UOkQTywmKxYdbC/view?usp=sharing
+  
 #### Example
 To run *sean* on Steemit-En, you can use the following command:<br/>
   ``cd sean``
