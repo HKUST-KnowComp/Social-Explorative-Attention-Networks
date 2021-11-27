@@ -1,9 +1,15 @@
 # Social Explorative Attention Networks (SEAN)
 
-This repository provides a reference implementation of *sean* as described in the paper in SIGKDD 2019:<br>
+This repository provides a reference implementation of *sean* as described in the paper in SIGKDD 2019 and DMKD 2021:<br>
 > Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction.<br>
 > Wenyi Xiao, Huan Zhao, Haojie Pan, Yangqiu Song, Vincent W. Zheng, Qiang Yang.<br>
 > https://arxiv.org/abs/1905.11900 <Insert paper link>
+
+> Social explorative attention based recommendation for content distribution platforms.<br>
+> Wenyi Xiao, Huan Zhao, Haojie Pan, Yangqiu Song, Vincent W. Zheng, Qiang Yang.<br>
+> https://link.springer.com/article/10.1007/s10618-020-00729-1 <Insert paper link>
+	
+
 
 The *sean* algorithm goes beyond personalized content recommendation by considering both content creators and consumers, which motivates us to develop a highly personalized attention based model and explore higher-order social friends.
 
