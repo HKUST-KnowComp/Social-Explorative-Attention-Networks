@@ -28,15 +28,22 @@ English Files down load: please put files in the dir dataset/steemit/en/
 
   https://drive.google.com/file/d/1SsxnVsXgjlFnUJ2uVCM0NAYm89A6Akk9/view?usp=sharing
   
-#### Example
+#### Example - End2End version in KDD 2019
 To run *sean* on Steemit-En, you can use the following command:<br/>
-  ``cd sean``
   
   ``python steemit_preprocessing``
   
   ``python payout.py --walk-length 10 --num-walks 3 --alpha 1``
 
-
+#### Example - KEYWORD version in DMKD 2020
+To run *sean* with dynamic attention on Steemit-En, you can use the following command:<br/>
+  ``cd sean-key``
+  
+  ``python data_preprocess``
+  
+  ``python rs_fscore.py --walk-length 10 --num-walks 3 --alpha 1 --use-sim 0``
+	
+	
 #### Input
 The supported input format is an edgelist:
 
@@ -55,6 +62,17 @@ If you find *sean* useful for your research, please consider citing the followin
 	 title = {Beyond Personalization: Social Content Recommendation for Creator Equality and Consumer Satisfaction. },
 	 booktitle = {Proceedings of the 25nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
 	 year = {2019}
+	}
+	
+	@article{xiao2021social,
+  	title={Social explorative attention based recommendation for content distribution platforms},
+  	author={Xiao, Wenyi and Zhao, Huan and Pan, Haojie and Song, Yangqiu and Zheng, Vincent W and Yang, Qiang},
+  	journal={Data Mining and Knowledge Discovery},
+  	volume={35},
+  	number={2},
+  	pages={533--567},
+  	year={2021},
+  	publisher={Springer}
 	}
 
 
