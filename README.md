@@ -41,7 +41,7 @@ To run *sean* on Steemit-En, you can use the following command:<br/>
   
   ``python payout.py --walk-length 10 --num-walks 3 --alpha 1``
 
-#### Example - KEYWORD version in DMKD 2020
+#### Example - KEYWORD version in DMKD 2021
 To run *sean* with dynamic attention on Steemit-En, you can use the following command:<br/>
   ``cd sean-key``
   
